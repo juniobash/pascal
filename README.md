@@ -65,7 +65,7 @@ Linux ou macOS
 
 ___
 
-> ### Basic Guide
+## Basic Guide
 
 |#   | |Capitulo |Link|
 |:---|:---|:---|:---|
@@ -78,7 +78,7 @@ ___
 |1.6 | `==` `<>` `<` `<=` `>` `>=` | Operando Com Relações|[Link]()|
 |1.7 | `\|\|` `!` `&&`  `XOR` | Operando Com Logica Booleana|[Link]()|
 
-> ### Intermediate Guide
+## Intermediate Guide
 
 |#   || Capitulo |Link|
 |:---|:---|:---|:---|
@@ -89,7 +89,7 @@ ___
 |2.4 | `for` `do while` `loop`| Fluxo de Dados de Repetição|[Link]()|
 |2.5 | `procedure`| Blocos de Códigos de Procedimentos|[Link]()|
 
-> ### Advanced Guide
+## Advanced Guide
 
 |#   || Capitulo |Link|
 |:---|:---|:---|:---|
@@ -98,8 +98,8 @@ ___
 |3.2 | `subprogramas` `package` `subrotinas`| Criando Programas Auxiliares|[Link]()|
 |3.3 | `arquivo.txt`| Percisitencia de dados em txt|[Link]()|
 
-#  Special Programming Guide
-> ### Estrutura e Ordenação de Dados
+
+## Estrutura e Ordenação de Dados
 
 |#   | |Capitulo |Link|
 |:---|:---|:---|:---|
@@ -108,3 +108,19 @@ ___
 |4.2 | `fila[1..10]`| Fila de Dados|[Link]()|
 |4.3 | `lista[1..10]`| Lista de Dados|[Link]()|
 |4.4 | `arvore`| Arvore de Dados|[Link]()|
+
+#  Special Programming Guide
+
+## Programação de Jogos
+
+|#   |Capitulo |Link|
+|:---|:---|:---|
+|5   |    |[Link]()|
+|5.1 |    |[Link]()|
+
+## Programação de Embarcados
+
+|#   |Capitulo |Link|
+|:---|:---|:---|
+|6   |    |[Link]()|
+|6.1 |    |[Link]()|

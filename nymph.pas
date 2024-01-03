@@ -1,4 +1,4 @@
-PROGRAM born(nymph);
-BEGIN
-        Writeln('The nymph said: hello world!');
-END.
+PROGRAM Pascal(Nymph);
+BEGIN   
+        Writeln('Hello,World!');
+END.    
